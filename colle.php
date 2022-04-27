@@ -130,5 +130,3 @@ function colle(int $x, int $y, array $coords) {
         }
     }
 }
-
-colle(4, 4, [[2,3], [1,1]]);
